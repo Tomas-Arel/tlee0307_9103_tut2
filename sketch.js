@@ -1,6 +1,9 @@
 //We need a variable to hold our image
 let img;
 
+// Initialise imgDrwPrps object
+let imgDrwPrps = {};
+
 //We will divide the image into segments
 let numSegments = 50;
 
@@ -17,7 +20,7 @@ function preload() {
 
 function setup() {
   //We will make the canvas the same size as the image using its properties
-  createCanvas(img.width, img.height);
+  createCanvas(window.width, window.height);
   //We can use the width and height of the image to calculate the size of each segment
   let segmentWidth = img.width / numSegments;
   let segmentHeight = img.height / numSegments;
