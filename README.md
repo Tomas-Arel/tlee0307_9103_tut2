@@ -13,12 +13,12 @@ The streaks could be used to highlight/improve/draw focus to specific areas of a
 
 ### Colorado Mountain Switchback Long exposure photography by Benjamin Huseman.
 #### https://frameworkfilms.net/facts/creative-long-exposure-photography
-![Long Exposure Photography of an alpine road by Benjamin Huseman. (https://frameworkfilms.net/facts/creative-long-exposure-photography)](<../../../../Downloads/IDEA_9103_WK_7_Complete/assets/Long Exposure photography example 1.jpg>)
+![Long Exposure of Colorado Mountain Switchback by Benjamin Huseman](<Images/Long Exposure photography example 1.jpg>)
 
 ### Star Trail by Uros Fink 
 #### https://capturetheatlas.com/long-exposure-night-photography/
 #### https://www.instagram.com/urosfink/
-![Long Exposure Photography of star trails by Uros Fink.](<../../../../Downloads/IDEA_9103_WK_7_Complete/assets/Star Trails Example 2 .jpg>)
+![Long Exposure Photography of star trails by Uros Fink.](<Images/Star Trails Example 2 .jpg>)
 
 ------
 
@@ -30,7 +30,7 @@ Three.js can be used to create 3D animated computer graphics. The coding techniq
 Inspiration can be drawn to simulate light movement that can be used to highlight parts of the chosen artwork.
 
 ### Screenshot of coding technique
-![Screenshot of light trails code in action](<../../../../Downloads/IDEA_9103_WK_7_Complete/assets/Screenshot 2025-05-08 at 9.18.54 pm.png>)
+![Screenshot of Light Trail code in action](<Images/Screenshot 2025-05-08 at 9.18.54 pm.png>)
 
 ### Link to Code
 Code was found [here](https://tympanus.net/codrops/2019/11/13/high-speed-light-trails-in-three-js/)
